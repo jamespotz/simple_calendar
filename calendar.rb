@@ -1,3 +1,4 @@
+# lib/calendar.rb
 # Calendar.new(self, date, block).table
 # inside a helper e.g
 # def calendar(date = Date.today, &block)
